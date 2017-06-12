@@ -1,32 +1,33 @@
-React Pro Project -- practise the react
-=====================
+![](http://i.imgur.com/DUiL9yn.png)
 
-learning React.
+# React/Sass/Redux Boilerplate
 
-**Install**
-```
-npm install
-```
+Boilerplate and guide for a React/Sass/Redux build.
 
-**Start the application in development mode**
+## Getting Started
+
+To get started, first install all the necessary dependencies.
 ```
-npm start
+> npm install
 ```
 
-Open http://localhost:8080 in your browser.
-
-Static files are served from the `public` folder, project JavaScript files are bundled from the `app` folder.
-
-**When ready, build for production**
+Run an initial webpack build
 ```
-npm run build
+> webpack
 ```
 
-This will generate a minimized bundle.js file on the `public` folder.
- 
-### Dependencies
+Start the development server (changes will now update live in browser)
+```
+> npm run start
+```
 
-* React & React-DOM
-* Webpack & webpack-dev-server
-* Babel Core
-* Babel Loader (With "es2015" and "react" presets)
+To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
+
+## Links
+
+- [Donate](https://www.patreon.com/thenewboston)
+- [thenewboston.com](https://thenewboston.com/)
+- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
+- [Twitter](https://twitter.com/bucky_roberts)
+- [Google+](https://plus.google.com/+BuckyRoberts)
+- [reddit](https://www.reddit.com/r/thenewboston/)
